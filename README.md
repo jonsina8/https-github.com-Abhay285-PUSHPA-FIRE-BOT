@@ -5,7 +5,7 @@
   𝐅𝐥𝐢𝐜𝐤 𝐇𝐮𝐧𝐭 BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+PUSHPA+FIRE+Filter+Bot!)
+![Typing SVG](https://readme-ltyping-svg.herokuapp.com/?lines=Welcome+To+𝐅𝐥𝐢𝐜𝐤 𝐇𝐮𝐧𝐭+FIRE+Filter+Bot!)
 </p>
 
 ## Main Feature 
@@ -18,7 +18,7 @@
 - [x] Ai Spell Check 
 - [x] Custom Force Subscribe
 - [x] Rename Feature & On / Off
-- [x] Premium And Refer On / Off 
+- [x] Premium And Refer On /l Off 
 - [x] Stream Feature On / Off 
 - [x] Url Shortner On / Off  
 - [x] Pm Search On / Off
@@ -204,4 +204,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
 
