@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/2pC3PcS/ae87b2467396.jpg" alt="PUSHPA-FIRE-Bot Logo">
+  <img src="https://files.catbox.moe/o7jlp1.jpg" alt="PUSHPA-FIRE-Bot Logo">
 </p>
 <h1 align="center">
-  PUSHPA FIRE BOT
+  𝐅𝐥𝐢𝐜𝐤 𝐇𝐮𝐧𝐭 BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+PUSHPA+FIRE+Filter+Bot!)
@@ -12,7 +12,7 @@
 <b>
   
 - [x] Clone Feature & On / Off
-- [x] Multiple Database Support & On / Off
+- [xl] Multiple Database Support & On / Off
 - [x] Premium Plan Feature 
 - [x] Refer To Get Premium
 - [x] Ai Spell Check 
@@ -35,7 +35,7 @@
 
 - Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://files.catbox.moe/913bin.jpg'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
 
@@ -204,3 +204,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
